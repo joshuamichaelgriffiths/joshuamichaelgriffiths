@@ -1,9 +1,10 @@
 # Joshua Michael Griffith
+
 **Email Developer | Responsive HTML Email | Lifecycle Marketing | Marketing Technology**
 
 I build responsive HTML emails and connect customer communication with clear, useful customer journeys. Based in Fairfield, Iowa, I am a Co-Founder at Light Code Labs with more than 12 years of experience in customer experience, relationship based sales, and service operations.
 
-[View my portfolio](https://www.joshuastarmichael.com) · [About me](https://www.joshuastarmichael.com/about/) · [LinkedIn](https://www.linkedin.com/in/joshuamichealgriffiths)
+[View my portfolio](https://joshuamichaelgriffiths.dev) · [About me](https://joshuamichaelgriffiths.dev/about/) · [LinkedIn](https://www.linkedin.com/in/joshuamichealgriffiths)
 
 ## About me
 
@@ -19,19 +20,19 @@ These portfolio projects demonstrate three email formats and different responsiv
 
 A weekly digest using hybrid and spongy email layouts, fluid tables, ghost columns, mobile stacking, and dark mode considerations. Designed to remain readable in email clients that ignore media queries.
 
-[View Field Notes](https://www.joshuastarmichael.com/emails/field-notes.html)
+[View Field Notes](https://joshuamichaelgriffiths.dev/emails/field-notes.html)
 
 ### Order confirmed, transactional email
 
 An order confirmation with a fluid layout, clear order and delivery information, accessible contrast, and touch friendly actions.
 
-[View order confirmation](https://www.joshuastarmichael.com/emails/order-confirmed.html)
+[View order confirmation](https://joshuamichaelgriffiths.dev/emails/order-confirmed.html)
 
 ### The Autumn Release, promotional email
 
 A product launch email using a 600px desktop layout, responsive mobile reflow, retina imagery, and a bulletproof call to action.
 
-[View The Autumn Release](https://www.joshuastarmichael.com/emails/autumn-release.html)
+[View The Autumn Release](https://joshuamichaelgriffiths.dev/emails/autumn-release.html)
 
 ## Skills and focus
 
@@ -48,4 +49,4 @@ My portfolio features HTML, CSS, MJML, Litmus, HubSpot, Klaviyo, Shopify, and Wo
 
 Explore my work, background, and contact options on my portfolio.
 
-[Portfolio](https://www.joshuastarmichael.com) · [Work](https://www.joshuastarmichael.com/work/) · [Contact](https://www.joshuastarmichael.com/contact/)
+[Portfolio](https://joshuamichaelgriffiths.dev) · [Work](https://joshuamichaelgriffiths.dev/work/) · [Contact](https://joshuamichaelgriffiths.dev/contact/)
