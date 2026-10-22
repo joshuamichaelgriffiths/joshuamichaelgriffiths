@@ -1,5 +1,4 @@
-# Joshua Star Michael
-
+# Joshua Michael Griffith
 **Email Developer | Responsive HTML Email | Lifecycle Marketing | Marketing Technology**
 
 I build responsive HTML emails and connect customer communication with clear, useful customer journeys. Based in Fairfield, Iowa, I am a Co-Founder at Light Code Labs with more than 12 years of experience in customer experience, relationship based sales, and service operations.
