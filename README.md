@@ -50,3 +50,5 @@ My portfolio features HTML, CSS, MJML, Litmus, HubSpot, Klaviyo, Shopify, and Wo
 Explore my work, background, and contact options on my portfolio.
 
 [Portfolio](https://joshuamichaelgriffiths.dev) · [Work](https://joshuamichaelgriffiths.dev/work/) · [Contact](https://joshuamichaelgriffiths.dev/contact/)
+
+Contact: [joshuamichaelgriffiths369@gmail.com](mailto:joshuamichaelgriffiths369@gmail.com)
