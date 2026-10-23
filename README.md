@@ -1,4 +1,4 @@
-# Joshua Michael Griffith
+# Joshua Michael Griffiths
 
 **Email Developer | Responsive HTML Email | Lifecycle Marketing | Marketing Technology**
 
@@ -52,3 +52,8 @@ Explore my work, background, and contact options on my portfolio.
 [Portfolio](https://joshuamichaelgriffiths.dev) · [Work](https://joshuamichaelgriffiths.dev/work/) · [Contact](https://joshuamichaelgriffiths.dev/contact/)
 
 Contact: [joshuamichaelgriffiths369@gmail.com](mailto:joshuamichaelgriffiths369@gmail.com)
+
+
+## Around the web
+
+[CodePen](https://codepen.io/joshuamichaelgriffiths) · [DEV Community](https://dev.to/joshuamichaelgriffiths) · [Hashnode](https://hashnode.com/@joshuamichaelgriffit) · [Medium](https://medium.com/@joshuamichaelgriffiths369) · [Behance](https://www.behance.net/joshuagriffit1) · [Gravatar](https://gravatar.com/thoughtfulanchor90f2b9d791)
