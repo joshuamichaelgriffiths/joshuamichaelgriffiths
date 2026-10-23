@@ -1,59 +1,51 @@
 # Joshua Michael Griffiths
 
-**Email Developer | Responsive HTML Email | Lifecycle Marketing | Marketing Technology**
+**Email Developer | HTML and CSS Email Concepts | Customer Experience**
 
-I build responsive HTML emails and connect customer communication with clear, useful customer journeys. Based in Fairfield, Iowa, I am a Co-Founder at Light Code Labs with more than 12 years of experience in customer experience, relationship based sales, and service operations.
+I am an Email Developer and Co-Founder at Light Code Labs in Fairfield, Iowa. My portfolio features personal HTML and CSS email concepts with browser previews and readable source. I bring more than 12 years of experience in customer experience, relationship based sales, and service operations.
 
-[View my portfolio](https://joshuamichaelgriffiths.dev) · [About me](https://joshuamichaelgriffiths.dev/about/) · [LinkedIn](https://www.linkedin.com/in/joshuamichealgriffiths)
+[View my portfolio](https://joshuamichaelgriffiths.dev/) · [About me](https://joshuamichaelgriffiths.dev/about/) · [LinkedIn](https://www.linkedin.com/in/joshuamichealgriffiths)
 
 ## About me
 
-My work brings together email development, campaign production, CRM workflows, and customer experience. I focus on readable content, responsive layouts, accessible calls to action, and the details that help people understand what to do next.
+My background spans premium retail at Overland Sheepskin Co., remote sales and customer experience at doTERRA, and hospitality at Salishan Coastal Lodge. That experience informs how I think about clear communication, retention, follow up, and the questions people ask before and after a purchase.
 
-At Light Code Labs, I support marketing systems, customer communication, segmentation, quality assurance, lifecycle marketing, and marketing automation. My earlier experience spans premium retail at Overland Sheepskin Co., remote sales and customer experience at doTERRA, and hospitality at Salishan Coastal Lodge. That background informs how I approach retention, follow up, documentation, and cross functional collaboration.
+At Light Code Labs, my work centers on business strategy, customer relationships, and clear communication. I am developing technical skills in email development, web development, lifecycle marketing, CRM workflows, and marketing automation.
 
-## Selected email development work
+## Selected email concepts
 
-These portfolio projects demonstrate three email formats and different responsive HTML email techniques. Each example can be opened and inspected in my portfolio.
+Three personal concepts explore different communication goals. The brands, customer details, and action links use sample content. Each example includes a browser preview and readable source. No campaign send or email client test report is attached.
 
 ### Field Notes, editorial newsletter
 
-A weekly digest using hybrid and spongy email layouts, fluid tables, ghost columns, mobile stacking, and dark mode considerations. Designed to remain readable in email clients that ignore media queries.
+A personal newsletter concept with a fluid table shell, an editorial hierarchy, and a mobile stacking breakpoint. It groups a lead story and supporting content for a weekly digest.
 
 [View Field Notes](https://joshuamichaelgriffiths.dev/emails/field-notes.html)
 
-### Order confirmed, transactional email
+### Order Confirmed, transactional email
 
-An order confirmation with a fluid layout, clear order and delivery information, accessible contrast, and touch friendly actions.
+A personal order confirmation concept with a fluid table shell. It groups order status, sample delivery details, product information, totals, and support into a clear reading order.
 
-[View order confirmation](https://joshuamichaelgriffiths.dev/emails/order-confirmed.html)
+[View Order Confirmed](https://joshuamichaelgriffiths.dev/emails/order-confirmed.html) · [Inspect on CodePen](https://codepen.io/editor/joshuamichaelgriffiths/pen/01a169cf-3b6b-75db-b04b-8e755e07056a)
 
 ### The Autumn Release, promotional email
 
-A product launch email using a 600px desktop layout, responsive mobile reflow, retina imagery, and a bulletproof call to action.
+A personal promotional concept with a 600px desktop canvas and a mobile stacking breakpoint. It introduces a product through imagery, a short explanation, and a sample call to action.
 
 [View The Autumn Release](https://joshuamichaelgriffiths.dev/emails/autumn-release.html)
 
-## Skills and focus
+[Explore all previews and source](https://joshuamichaelgriffiths.dev/work/) · [Project explanation on Peerlist](https://peerlist.io/joshuagriffiths/project/html-email-concepts)
 
-* **Email development:** HTML, CSS, responsive email design, modular email templates, newsletters, transactional emails, promotional campaigns, fluid layouts, hybrid layouts, and mobile stacking.
-* **Email quality assurance:** accessible content, contrast, dark mode considerations, email testing, and technical troubleshooting.
-* **Lifecycle and marketing operations:** customer journeys, audience segmentation, CRM workflows, marketing automation, retention strategy, and conversion strategy.
-* **Customer experience:** customer communication, knowledge base documentation, sales and support collaboration, and remote teamwork.
+## Current work and learning
 
-## Tools in my portfolio
-
-My portfolio features HTML, CSS, MJML, Litmus, HubSpot, Klaviyo, Shopify, and WordPress alongside CRM and support workflows involving Salesforce, Zendesk, Help Scout, and Intercom.
+* **Published work:** HTML and CSS email concepts, responsive browser layouts, and readable source.
+* **Customer experience background:** customer communication, relationship based sales, retention, documentation, and collaboration.
+* **Developing skills:** MJML, Litmus, HubSpot, Klaviyo, Shopify, and WordPress through ongoing learning and project work. Completed web and CRM automation projects will be added when there is inspectable evidence.
 
 ## Connect
 
-Explore my work, background, and contact options on my portfolio.
-
-[Portfolio](https://joshuamichaelgriffiths.dev) · [Work](https://joshuamichaelgriffiths.dev/work/) · [Contact](https://joshuamichaelgriffiths.dev/contact/)
+[Portfolio](https://joshuamichaelgriffiths.dev/) · [Work](https://joshuamichaelgriffiths.dev/work/) · [Contact](https://joshuamichaelgriffiths.dev/contact/)
 
 Contact: [joshuamichaelgriffiths369@gmail.com](mailto:joshuamichaelgriffiths369@gmail.com)
 
-
-## Around the web
-
-[CodePen](https://codepen.io/joshuamichaelgriffiths) · [DEV Community](https://dev.to/joshuamichaelgriffiths) · [Hashnode](https://hashnode.com/@joshuamichaelgriffit) · [Medium](https://medium.com/@joshuamichaelgriffiths369) · [Behance](https://www.behance.net/joshuagriffit1) · [Gravatar](https://gravatar.com/thoughtfulanchor90f2b9d791)
+[Contra](https://contra.com/joshuamichaelgriffiths) · [Peerlist](https://peerlist.io/joshuagriffiths) · [CodePen](https://codepen.io/joshuamichaelgriffiths) · [DEV Community](https://dev.to/joshuamichaelgriffiths) · [Hashnode](https://hashnode.com/@joshuamichaelgriffit) · [Medium](https://medium.com/@joshuamichaelgriffiths369) · [Behance](https://www.behance.net/joshuagriffit1) · [Gravatar](https://gravatar.com/thoughtfulanchor90f2b9d791)
